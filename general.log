@@ -1,0 +1,10 @@
+/usr/sbin/mysqld, Version: 8.0.46 (MySQL Community Server - GPL). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+2026-11-05T10:59:56.485729Z	   10 Query	SET GLOBAL log_output = 'FILE'
+2026-11-05T10:59:56.486547Z	   10 Query	SET GLOBAL general_log = 'ON'
+2026-11-05T10:59:57.331798Z	   10 Query	SET GLOBAL general_log_file = '/var/lib/mysql/general.log'
+/usr/sbin/mysqld, Version: 8.0.46 (MySQL Community Server - GPL). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+2026-11-05T11:00:15.743512Z	   10 Quit	
